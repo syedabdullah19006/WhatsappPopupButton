@@ -1,0 +1,13 @@
+.whatsapp_float {
+    position: fixed;
+    bottom: 40px;
+    right: 20px; 
+    background-color: green;
+    border-radius: 73px;
+    padding: 20px;
+}
+.whatsapp_float_btn{
+    margin-top: 6px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
